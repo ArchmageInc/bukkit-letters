@@ -1,0 +1,4 @@
+name: Letters
+main: com.archmageinc.letters.Letters
+version: 1.0
+description: Allows creating letters using maps
